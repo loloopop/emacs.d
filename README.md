@@ -1,5 +1,5 @@
-# emacs.d
-my emacs plugins config
+;; emacs.d
+;; my emacs plugins config
 
 File Edit Options Buffers Tools Emacs-Lisp Help                                                          
  (require 'package)
